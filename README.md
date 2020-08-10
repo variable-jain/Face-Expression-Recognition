@@ -13,3 +13,4 @@ After changing the required paths to appropriate values and installing the requi
 ```
 python3 main.py
 ```
+Setup your pc with tensorflow GPU to get fast results (otherwise the program takes foreve to run as well as the flask app is not able to show predictions)
